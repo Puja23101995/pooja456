@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="63" started-at="2022-05-09T15:04:30 IST" finished-at="2022-05-09T15:04:30 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="63" started-at="2022-05-09T15:04:30 IST" finished-at="2022-05-09T15:04:30 IST">
+      <class name="TestNGAssignment.TestNGpractice">
+        <test-method status="PASS" signature="d1()[pri:0, instance:TestNGAssignment.TestNGpractice@76f2b07d]" name="d1" duration-ms="10" started-at="2022-05-09T15:04:30 IST" finished-at="2022-05-09T15:04:30 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- d1 -->
+        <test-method status="PASS" signature="d1()[pri:0, instance:TestNGAssignment.TestNGpractice@76f2b07d]" name="d1" duration-ms="3" started-at="2022-05-09T15:04:30 IST" finished-at="2022-05-09T15:04:30 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- d1 -->
+        <test-method status="PASS" signature="d1()[pri:0, instance:TestNGAssignment.TestNGpractice@76f2b07d]" name="d1" duration-ms="2" started-at="2022-05-09T15:04:30 IST" finished-at="2022-05-09T15:04:30 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- d1 -->
+        <test-method status="PASS" signature="d1()[pri:0, instance:TestNGAssignment.TestNGpractice@76f2b07d]" name="d1" duration-ms="1" started-at="2022-05-09T15:04:30 IST" finished-at="2022-05-09T15:04:30 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- d1 -->
+        <test-method status="PASS" signature="d1()[pri:0, instance:TestNGAssignment.TestNGpractice@76f2b07d]" name="d1" duration-ms="1" started-at="2022-05-09T15:04:30 IST" finished-at="2022-05-09T15:04:30 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- d1 -->
+      </class> <!-- TestNGAssignment.TestNGpractice -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
